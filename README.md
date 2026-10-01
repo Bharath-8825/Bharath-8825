@@ -2,7 +2,7 @@
 
 ### B.Tech Artificial Intelligence & Machine Learning Graduate | Python | Data Analytics | Machine Learning
 
-🎓 **Geethanjali Institute of Science and Technology** · Class of 2026
+🎓 **Geethanjali Institute of Science and Technology** · 2022-2026
 📍 Bangalore, Karnataka, India
 
 ---
@@ -42,91 +42,103 @@ I'm currently focused on building practical projects in **Data Analytics, Data S
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌱 Plant Disease Detection
+### 🌱 [Plant Disease Detection](https://github.com/Bharath-8825/VIsion-Transformer)
 
-**Optimizing Vision Transformers via Transfer Learning for Precision Phytopathology**
+Vision Transformer-based plant disease classification using transfer learning and explainable AI.
 
-* Developed a plant disease classification system using **Vision Transformers and transfer learning**.
-* Worked with the **PlantVillage dataset** for image classification.
-* Implemented feature extraction, classification, baseline comparison, and explainable AI techniques.
-* Achieved **99.8% accuracy** in plant disease classification.
+**Technologies:** Python • PyTorch • Vision Transformer • Machine Learning
+
+* Developed a plant disease classification system using the PlantVillage dataset.
+* Implemented transfer learning, feature extraction, and model evaluation.
+* Achieved **99.8% classification accuracy**.
+
+🔗 [View Project](https://github.com/Bharath-8825/VIsion-Transformer)
+
+---
+
+### 🌐 [Webpage Project](https://github.com/Bharath-8825/Webpage)
+
+Responsive webpage developed to practice modern HTML and CSS concepts.
+
+**Technologies:** HTML • CSS
+
+* Developed a structured web interface using HTML and CSS.
+* Implemented page layout, styling, and responsive design concepts.
+
+🔗 [View Project](https://github.com/Bharath-8825/Webpage)
 
 ---
 
 ### 🧑‍🏫 GIST Mentoring System
 
-A student-mentor platform designed to support **career development, mentoring, and progress tracking**.
+Student-mentor platform designed for career development and progress tracking.
 
-* Developed a web-based mentoring system for students and mentors.
-* Implemented database management using **MySQL**.
-* Worked with JavaScript-based backend components and database schemas.
-* Explored AI-based recommendations for personalized student guidance.
+**Technologies:** JavaScript • MySQL • Node.js
+
+* Developed a platform for student-mentor interaction and progress tracking.
+* Implemented database structures and backend functionality.
+* Explored AI-based recommendations for personalized guidance.
 
 ---
 
 ### 📊 Data Analytics Dashboard
 
-Interactive business analytics dashboard created using:
+Interactive business analytics dashboard for analyzing sales and customer data.
 
-**Excel • SQL • Python • Pandas • NumPy • Power BI**
+**Technologies:** Python • SQL • Excel • Power BI • Pandas • NumPy
 
-* Cleaned and transformed business datasets.
+* Cleaned and transformed datasets for analysis.
 * Performed exploratory data analysis to identify patterns and trends.
-* Created interactive Power BI dashboards and KPI visualizations.
-* Used analytical insights to support data-driven decision making.
+* Developed interactive dashboards with KPIs and business visualizations.
 
 ---
 
 ### 👥 Customer Segmentation & Marketing Analytics
 
-Customer analysis project using:
+Data analytics project focused on customer behavior and segmentation.
 
-**Python • Pandas • NumPy • SQL • Power BI**
+**Technologies:** Python • Pandas • NumPy • SQL • Power BI
 
-* Performed customer data preprocessing and exploratory analysis.
-* Applied customer segmentation techniques.
+* Performed data preprocessing and exploratory analysis.
 * Analyzed customer behavior and purchasing patterns.
-* Created interactive visualizations for business insights.
+* Developed visualizations to communicate customer insights.
 
 ---
 
-## 💼 Experience
 
-### Machine Learning Intern — JYESTA
+
+## 💼 Professional Experience
+
+### 🤖 Machine Learning Intern — [Jyesta Corporate Entity](https://www.linkedin.com/in/bharath-gangavarapu/overlay/Position/2944675284/treasury/?profileId=ACoAAEJ6mwIBKZRT_kCxHuLljt7mQzHWfV-E9V8)
 
 **Apr 2026 – Jun 2026**
 
-* Worked with Python and machine learning workflows.
-* Performed data preprocessing, feature engineering, and model evaluation.
-* Developed and evaluated machine learning solutions.
-* Achieved **97% result** during the internship.
+* Developed Python & SQL workflows for data cleaning, preprocessing, and feature engineering, achieving **97% model performance**.
+* Analyzed ML outputs to identify patterns and trends and generate data-driven insights.
+* 🔗 [Certificate](https://www.linkedin.com/in/bharath-gangavarapu/overlay/Position/2944675284/treasury/?profileId=ACoAAEJ6mwIBKZRT_kCxHuLljt7mQzHWfV-E9V8)
 
-### Machine Learning & Deep Learning Intern — BlackBuck
+### 🧠 AI, Machine Learning & Deep Learning Intern — [Blackbucks Group](https://www.linkedin.com/in/bharath-gangavarapu/edit/forms/position/2946296187/)
 
-**May 2025 – Jul 2025**
+**May 2025 – Jul 2025 · Remote**
 
-* Worked on machine learning and deep learning workflows.
-* Performed data preparation and model development.
-* Applied machine learning techniques to practical datasets.
-* Achieved **96% model performance** during the internship.
+* Engineered Python workflows for data preprocessing and feature engineering, achieving **96% model performance**.
+* Evaluated datasets and deep learning predictions to identify patterns and optimize ML results.
+* 🔗 [Certificate](https://www.linkedin.com/in/bharath-gangavarapu/overlay/Position/2946296187/treasury/?profileId=ACoAAEJ6mwIBKZRT_kCxHuLljt7mQzHWfV-E9V8)
 
----
 
-## 📜 Certifications & Learning
+## 📜 Certifications
 
-* 🟢 **Deloitte Australia — Data Analytics Virtual Experience**
-* 🤖 **BE10X — AI Tools & Claude Workshop**
-* 🐍 **Python & Machine Learning Training**
-* 📊 **Data Analytics & Power BI**
-* ☁️ **Cloud & AI Learning**
-* 💻 **Technical Virtual Experiences**
+* [**Introduction to Career Skills in Data Analytics**](https://www.linkedin.com/learning/certificates/bd5e0ef2f6f6f698f2145d8aa53c33eb5854e787871b2aa8149a36884b54ea81) — LinkedIn Learning Community
+* [**Deloitte Data Analytics Job Simulation**](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_698ae20d23d77abb93477229_1790233029113_completion_certificate.pdf) — Forage
+* [**AI Tools & Claude Workshop**](https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd09971766271) — Be10x
+* [**Introduction to Web Development with HTML, CSS, JavaScript**](https://coursera.org/verify/CQP8L56WQ3YF) — IBM
+* [**Introduction to Cybersecurity**](https://www.credly.com/badges/0539d8d3-e871-49aa-98ab-5b637b50b313/linked_in_profile) — Cisco
+* [**SQL (Basic)**](https://www.hackerrank.com/certificates/a638d833e2e9) — HackerRank
 
 ---
 
@@ -148,13 +160,6 @@ Customer analysis project using:
   <img src="https://streak-stats.demolab.com?user=Bharath-8825" alt="Bharath's GitHub Streak" />
 </p>
 
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharath-8825" alt="Bharath's Contribution Graph" />
-</p>
 
 ---
 
