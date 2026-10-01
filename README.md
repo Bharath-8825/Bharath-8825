@@ -5,6 +5,8 @@
 🎓 **Geethanjali Institute of Science and Technology** · 2022-2026
 📍 Bangalore, Karnataka, India
 
+🌐 **[Portfolio](https://bharathgangavarapu.netlify.app/)** · **[LinkedIn](https://www.linkedin.com/in/bharath-gangavarapu/)**
+
 ---
 
 ## 👨‍💻 About Me
@@ -110,8 +112,6 @@ Data analytics project focused on customer behavior and segmentation.
 
 ---
 
-
-
 ## 💼 Professional Experience
 
 ### 🤖 Machine Learning Intern — [Jyesta Corporate Entity](https://www.linkedin.com/in/bharath-gangavarapu/overlay/Position/2944675284/treasury/?profileId=ACoAAEJ6mwIBKZRT_kCxHuLljt7mQzHWfV-E9V8)
@@ -130,11 +130,12 @@ Data analytics project focused on customer behavior and segmentation.
 * Evaluated datasets and deep learning predictions to identify patterns and optimize ML results.
 * 🔗 [Certificate](https://www.linkedin.com/in/bharath-gangavarapu/overlay/Position/2946296187/treasury/?profileId=ACoAAEJ6mwIBKZRT_kCxHuLljt7mQzHWfV-E9V8)
 
+---
 
 ## 📜 Certifications
 
 * [**Introduction to Career Skills in Data Analytics**](https://www.linkedin.com/learning/certificates/bd5e0ef2f6f6f698f2145d8aa53c33eb5854e787871b2aa8149a36884b54ea81) — LinkedIn Learning Community
-* [**Deloitte Data Analytics Job Simulation**](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_698ae20d23d77abb93477229_1790233029113_completion_certificate.pdf) — Forage
+* [**Deloitte Data Analytics Job Simulation**](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqm9d23d77abb93477229_1790233029113_completion_certificate.pdf) — Forage
 * [**AI Tools & Claude Workshop**](https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd09971766271) — Be10x
 * [**Introduction to Web Development with HTML, CSS, JavaScript**](https://coursera.org/verify/CQP8L56WQ3YF) — IBM
 * [**Introduction to Cybersecurity**](https://www.credly.com/badges/0539d8d3-e871-49aa-98ab-5b637b50b313/linked_in_profile) — Cisco
@@ -160,12 +161,15 @@ Data analytics project focused on customer behavior and segmentation.
   <img src="https://streak-stats.demolab.com?user=Bharath-8825" alt="Bharath's GitHub Streak" />
 </p>
 
-
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
+
+<a href="https://bharathgangavarapu.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Bharath%20Gangavarapu-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 <a href="https://www.linkedin.com/in/bharath-gangavarapu/">
 <img src="https://img.shields.io/badge/LinkedIn-Bharath%20Gangavarapu-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
