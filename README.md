@@ -155,14 +155,6 @@ Data analytics project focused on customer behavior and segmentation.
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bharath-8825" alt="Bharath's GitHub Streak" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
