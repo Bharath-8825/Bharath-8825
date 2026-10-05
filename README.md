@@ -114,23 +114,30 @@ Data analytics project focused on customer behavior and segmentation.
 
 ## 💼 Professional Experience
 
-### 🤖 Machine Learning Intern — [Jyesta Corporate Entity](https://www.linkedin.com/in/bharath-gangavarapu/overlay/Position/2944675284/treasury/?profileId=ACoAAEJ6mwIBKZRT_kCxHuLljt7mQzHWfV-E9V8)
+### 🤖 Machine Learning Intern — Jyesta Corporate Entity
 
 **Apr 2026 – Jun 2026**
 
-* Developed Python & SQL workflows for data cleaning, preprocessing, and feature engineering, achieving **97% model performance**.
+* Developed Python & SQL workflows for data cleaning, preprocessing, and feature engineering, achieving 97% model performance.
 * Analyzed ML outputs to identify patterns and trends and generate data-driven insights.
-* 🔗 [Certificate](https://www.linkedin.com/in/bharath-gangavarapu/overlay/Position/2944675284/treasury/?profileId=ACoAAEJ6mwIBKZRT_kCxHuLljt7mQzHWfV-E9V8)
+* 🔗 [Certificate](https://www.linkedin.com/in/bharath-gangavarapu/)
 
-### 🧠 AI, Machine Learning & Deep Learning Intern — [Blackbucks Group](https://www.linkedin.com/in/bharath-gangavarapu/edit/forms/position/2946296187/)
+### 📊 Data Science Intern — Prowork / Taroon Foundation
+
+**Dec 2025 – Mar 2026**
+
+* Worked with Python for data preprocessing, analysis, and extracting meaningful insights from datasets.
+* Applied data science and machine learning techniques to evaluate datasets and support data-driven outcomes.
+* 🔗 [Certificate](https://www.linkedin.com/in/bharath-gangavarapu/overlay/Position/3036827882/treasury/?profileId=ACoAAEJ6mwIBKZRT_kCxHuLljt7mQzHWfV-E9V8)
+
+### 🧠 AI, Machine Learning & Deep Learning Intern — Blackbucks Group
 
 **May 2025 – Jul 2025 · Remote**
 
-* Engineered Python workflows for data preprocessing and feature engineering, achieving **96% model performance**.
+* Engineered Python workflows for data preprocessing and feature engineering, achieving 96% model performance.
 * Evaluated datasets and deep learning predictions to identify patterns and optimize ML results.
-* 🔗 [Certificate](https://www.linkedin.com/in/bharath-gangavarapu/overlay/Position/2946296187/treasury/?profileId=ACoAAEJ6mwIBKZRT_kCxHuLljt7mQzHWfV-E9V8)
+* 🔗 [Certificate](https://www.linkedin.com/in/bharath-gangavarapu/)
 
----
 
 ## 📜 Certifications
 
